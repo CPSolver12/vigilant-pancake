@@ -5,7 +5,6 @@ export const Footer = () => {
         <div className='flex flex-row justify-center items-center '>
         <div className=" h-[530px] flex flex-col content-center items-center rounded-xl w-[98%] bg-white-700 bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-20 border border-gray-100">
           <span className='w-[80%] mt-4 border-b-[4px] rounded'>
-          <img src="https://zetapp.in/_next/static/media/zet_logo_white.04e35c15.svg" alt="" />
         </span>
         <span className='w-[80%] mt-12 flex flex-row flex-wrap content-center justify-between '>
           <span className='m-3'>
